@@ -1,10 +1,11 @@
 
 <span id="a">Ahmad@Khatatbeh</span>:<span id="b">~</span><span id="c">$</span> cat AhmadKhatatbeh.txt<br/><br/>
-Hi, I'm Ahmad Khatatbeh.<p>
+<b>Hi, I'm Ahmad Khatatbeh.</b>
+<p><b>
 I majored in CyberSecurity ,Experienced Network Analyst with a demonstrated history of working in the Information Technology & Services industry.Skilled in Windows Server, Management, Network Traffic Analysis, Networking and security Leadership.
  I have knowledge of various tools like VMware Workstation, GNS 3, Wireshark, Burp suite, Metasploit, Nmap, Zenmap, Cain and Abel, OpenVAS, NetCat, John the Ripper, Microsoft Office 365 Suite (Visio, Project, Outlook, Word, Excel, PowerPoint).
  I also have understanding of Microsoft's infrastructure including Active directory, Group policy objects, Azure, and virtualization with Hyper-V. I understand the working of the OSI model and it's various layers. I have the ability to setup Cisco routers & switches.
  I have understanding of various networking protocols, routing protocols, and VPNs. I'm well versed with threat and risk assessment , SIEM solution and EDR solution. </p>
  
 If you would like to get in touch with me, whether it be for tech support, a business ,or to just say hi, feel free to send me an email or a facebook message. My email address is: <a href="mailto:ahmadfouad_2011@hotmail.com">ahmadfouad_2011@hotmail.com</a> and my Facbook is: <a href="https://web.facebook.com/ahmadkh.live">AhmadKhatatbeh</a>.
-<p>And if you haven't already, make sure to give me a call at <a href "">+962790456846</a></p>
+<p>And if you haven't already, make sure to give me a call at <a href "">+962790456846</a></p></b>
