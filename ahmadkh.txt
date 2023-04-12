@@ -1,5 +1,5 @@
 
-<span id="a">Ahmad@Khatatbeh</span>:<span id="b">~</span><span id="c">$</span> cat Ahmad Khatatbeh.txt<br/><br/>
+<span id="a">Ahmad@Khatatbeh</span>:<span id="b">~</span><span id="c">$</span> cat AhmadKhatatbeh.txt<br/><br/>
 Hi, I'm Ahmad Khatatbeh.<p>
 I majored in CyberSecurity ,Experienced Network Analyst with a demonstrated history of working in the Information Technology & Services industry.Skilled in Windows Server, Management, Network Traffic Analysis, Networking and security Leadership.
  I have knowledge of various tools like VMware Workstation, GNS 3, Wireshark, Burp suite, Metasploit, Nmap, Zenmap, Cain and Abel, OpenVAS, NetCat, John the Ripper, Microsoft Office 365 Suite (Visio, Project, Outlook, Word, Excel, PowerPoint).
